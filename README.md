@@ -1,2 +1,13 @@
 # GTPSPOLYGONX
  
+ROUTER ADDRESS: mumbai router 0xc57a95ad7d9726b75bf4a1e541150bf1b0d49c7a
+
+polygon 0x2c596eDF562D2ADF15bEb0Ff3399c6d80905eb6F
+
+FACTORY ADDRESS:
+
+Mumbai Fcatory: 0xc57a95ad7d9726b75bf4a1e541150bf1b0d49c7a
+
+Polygon-factory 0x2fcb5d3ab09b5a3aefca6fda5c62074411aea6b3
+
+INIT_CODE : 0xc701ab7d6da9db0aaa136e373d65e2c9f501ad44b0bef46bd4b1fe68540f6c82
